@@ -5,3 +5,5 @@ To update a repository in Github, use:  git push -u origin main (master)
 To update the local repository in Git, use: git pull origin main (master)
 
 To copy a repository from Github, use: git clone https://github.com/GabrielAlSilva/LearningDataScience
+
+Whenever a file is modified, it is necessary to use git add <file name>.
